@@ -1,0 +1,49 @@
+2000246830 cotton 10.00 Contemporary Flounce Dress,dress
+
+2000282705 rayon 19.90 Drape-Front Top,top
+
+2000149008 wool 7.95  Faux Fur Beret,accessories
+
+2000247589 polyester 19.90 High-Rise Pants,bottom
+
+2000260651 cotton 15.90 Fleece Drawstring Hoodie,top
+
+2000270970 cotton 10.00 Skinny Striped Jeans,bottom
+
+1000211930 acrylic 5.99 Knit Scarf,accessories 
+
+2000267512 polyester 20.99 Sweetheart Tube Dress,dress
+
+2000258018 rayon 8.95 Knit Dress,dress
+
+2000241967 polyester 13.29 Ribbed Skater Dress,dress
+
+2000207973 cotton 19.95 Buffalo Plaid Shirt,top
+
+2000206909 nylon 17.95 Active Perforated Shorts,bottom
+
+1000176003 cotton 17.90 Hoodie Sleeve Scarf,accessories
+
+2000055578 cotton 19.00 Classic Woven Shirt,top
+
+2000260139 cotton 10.00 Heathered Knit Joggers,bottom
+
+2000148632 polyester 19.90 Floral Shift Dress,dress
+
+2000225949 polyester 12.45 Floral Flare Leggings,bottom
+
+2000277919 polyester 11.46 Knit Pullover Tuni,top
+
+2000229406 polyester 18.45 Faux Suede Shorts,bottom
+
+2000240915 polyester 19.90 Tie-Sleeve Top,top
+
+2000257791 rayon 13.50 Marled Ribbed Sweater,top
+
+2000277442 acrylic 10.00 Sweater-Knit Dress,dress
+
+2000133829 cotton 12.55 Grommet Choker Tee,top
+
+2000122281 rayon 25.95 French Terry Joggers,bottom
+
+2000217049 rayon 15.90 Contemporary Metallic Cami,top
